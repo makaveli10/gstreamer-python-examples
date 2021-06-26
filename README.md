@@ -1,1 +1,1 @@
-# Gstremer python examples
+# Gstreamer python examples
